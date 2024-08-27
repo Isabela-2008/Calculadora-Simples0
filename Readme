@@ -1,0 +1,45 @@
+# Enunciado do Projeto: Calculadora com Três Números
+
+## Objetivo
+
+Desenvolver uma calculadora em Python que permite ao usuário inserir três números e realizar operações matemáticas básicas (adição, subtração, multiplicação e divisão) entre os dois primeiros números.
+
+## Especificações
+
+1. **Leitura dos Números**
+   - O programa deve solicitar ao usuário que insira três números.
+
+2. **Seleção de Operação**
+   - O programa deve solicitar ao usuário que escolha a operação matemática a ser realizada (+, -, *, /) entre o primeiro e o segundo número.
+
+3. **Execução da Operação**
+   - O programa deve realizar a operação escolhida entre o primeiro e o segundo número.
+   - Se a operação for divisão, o programa deve tratar o caso de divisão por zero.
+
+4. **Exibição do Resultado**
+   - O programa deve exibir o resultado da operação.
+   - Se o usuário inserir uma operação inválida, o programa deve exibir uma mensagem informando que a operação é inválida.
+
+## Considerações
+
+- O sistema deve ser executado em modo de linha de comando (CLI).
+- O código deve ser simples, organizado e de fácil entendimento, com tratamento básico de erros.
+
+
+# Calculadora com Três Números
+
+Este é um programa em Python que permite ao usuário inserir três números e realizar operações matemáticas básicas (adição, subtração, multiplicação e divisão) entre os dois primeiros números. O programa verifica a validade da operação e exibe o resultado.
+
+## Funcionalidades
+
+- **Leitura de Três Números:** O programa solicita ao usuário que insira três números.
+- **Seleção de Operação:** O usuário escolhe a operação matemática que deseja realizar (+, -, *, /) entre o primeiro e o segundo número.
+- **Execução da Operação:** O programa realiza a operação escolhida e exibe o resultado.
+- **Tratamento de Erros:** O programa trata casos de divisão por zero e operações inválidas, exibindo mensagens de erro apropriadas.
+
+## Como Usar
+
+1. Clone este repositório:
+
+   ```bash
+   git clone https://github.com/seu-usuario/calculadora-tres-numeros.git
